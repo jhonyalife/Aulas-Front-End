@@ -1,9 +1,8 @@
-# Projeto06
+# Projeto06-v2
 
-Start project 
+## Start project 
 
 - npm install
-- ng serve
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
